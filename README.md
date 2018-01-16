@@ -12,6 +12,5 @@
 
  1. [CPKCS #1: 组合公钥标识密钥管理算法](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs1.md)
  2. [CPKCS #2: 组合公钥算法标识规范](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs2.md)
- 3. [CPKCS #3：组合公钥密码消息格式规范](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs3.md)
+ 3. [CPKCS #3: 组合公钥密码消息格式规范](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs3.md)
  4. [CPKCS #4: 组合公钥密码设备编程接口规范](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs4.md)
-
