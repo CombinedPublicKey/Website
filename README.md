@@ -6,7 +6,7 @@
  - [晋商博创（北京）科技有限公司](http://www.com)
  - [解放军信息工程大学](http://zhaosheng.plaieu.edu.cn)
  - [博雅信安科技（北京）有限公司](http://www.boyasecurity.com)
- - 中科院信息工程研究所
+ 
 
 工作组的近期标准文本计划：
 
