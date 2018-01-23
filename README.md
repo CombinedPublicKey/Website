@@ -6,11 +6,18 @@
  - [晋商博创（北京）科技有限公司](http://www.com)
  - [解放军信息工程大学](http://zhaosheng.plaieu.edu.cn)
  - [博雅信安科技（北京）有限公司](http://www.boyasecurity.com)
- 
 
 工作组的近期标准文本计划：
 
- 1. [CPKCS #1: 组合公钥标识密钥管理算法](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs1.md)
- 2. [CPKCS #2: 组合公钥算法标识规范](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs2.md)
- 3. [CPKCS #3: 组合公钥密码消息格式规范](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs3.md)
- 4. [CPKCS #4: 组合公钥密码设备编程接口规范](https://github.com/CombinedPublicKey/CPKCS/blob/master/cpkcs4.md)
+ 1. [CPKCS #1: 组合公钥标识密钥管理算法](http://combinedpublickey.org/drafts/cpkcs1.html)
+ 2. [CPKCS #2: 组合公钥算法标识规范](http://combinedpublickey.org/drafts/cpkcs2.html)
+ 3. [CPKCS #3: 组合公钥密码消息格式规范](http://combinedpublickey.org/drafts/cpkcs3.html)
+ 4. [CPKCS #4: 组合公钥密码设备编程接口规范](http://combinedpublickey.org/drafts/cpkcs4.html)
+
+参考：
+
+1. [CPK技术白皮书](https://github.com/CombinedPublicKey/Website/tree/master/docs)
+2. [CPK胶片](https://github.com/CombinedPublicKey/Website/tree/master/slides)
+
+
+
