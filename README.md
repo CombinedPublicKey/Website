@@ -15,7 +15,10 @@
 工作组的近期标准文本计划：
 
  1. [CPKCS #1: 组合公钥标识密钥管理算法](http://combinedpublickey.org/drafts/cpkcs1.html)
+
+<!--
  2. [CPKCS #2: 组合公钥算法标识规范](http://combinedpublickey.org/drafts/cpkcs2.html)
  3. [CPKCS #3: 组合公钥密码消息格式规范](http://combinedpublickey.org/drafts/cpkcs3.html)
  4. [CPKCS #4: 组合公钥密码设备编程接口规范](http://combinedpublickey.org/drafts/cpkcs4.html)
+-->
 
